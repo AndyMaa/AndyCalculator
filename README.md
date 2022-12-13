@@ -8,5 +8,6 @@ It's a calculator which is just made for studying java, or for fun, and it has s
     *增加了颜色与字体等个性化设置
     
     
-                    ***## Notes:作者学业较重，so，可能之后会更新一些功能，包括log和计算历史等，
-                                感谢你们的支持！
+                    ***## Notes:作者学业较重，so，可能之后会更新一些功能，包括log和计算历史等;
+                                未来作者可能也会做一些其他java projects，感谢你们的支持！
+                      
