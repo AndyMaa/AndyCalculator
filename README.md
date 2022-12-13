@@ -2,6 +2,7 @@
 It's a calculator which is just made for studying java, or for fun, and it has some basic functions as other calculators.
 
 ***Curent situation:
+    *java version: 1.8及以上
     *不同系统间UI界面效果与美感会有出入，可能MacOS系统的UI界面相比于Windows会美观一点，请谅解
     （作者用的是macOS开发）
     *暂时取消了日志log与计算历史history功能
