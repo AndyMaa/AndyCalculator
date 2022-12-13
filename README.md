@@ -16,3 +16,4 @@ It's a calculator which is just made for studying java, or for fun, and it has s
                     下载请前往 https://github.com/AndyMaa/AndyCalculator/releases/tag/Andy
                     (Mac用户请下载jar, Windows用户请下载exe)
                       
+                    ###!!! Contact me: 3102480846@qq.com
