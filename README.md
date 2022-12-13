@@ -10,4 +10,6 @@ It's a calculator which is just made for studying java, or for fun, and it has s
     
                     ***## Notes:作者学业较重，so，可能之后会更新一些功能，包括log和计算历史等;
                                 未来作者可能也会做一些其他java projects，感谢你们的支持！
+                                
+                                下载请前往 https://github.com/AndyMaa/AndyCalculator/releases/tag/Andy
                       
