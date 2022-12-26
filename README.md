@@ -6,7 +6,6 @@ It's a calculator which is just made for studying java, or for fun, and it has s
     *不同系统间UI界面效果与美感会有出入，可能MacOS系统的UI界面相比于Windows会美观一点，请谅解
     （作者用的是macOS开发）
     *暂时取消了日志log与计算历史history功能
-    *目前只能在整数之间计算
     *目前无法进行多重运算
     *增加了颜色与字体等个性化设置
     
