@@ -8,6 +8,9 @@ It's a calculator which is just made for studying java, or for fun, and it has s
     *暂时取消了日志log与计算历史history功能
     *目前无法进行多重运算
     *增加了颜色与字体等个性化设置
+
+#2023.12.15
+   添加键盘输入功能
     
     
                     ***## Notes:作者学业较重，so，可能之后会更新一些功能，包括log和计算历史等;
