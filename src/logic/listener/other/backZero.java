@@ -13,6 +13,10 @@ import java.awt.event.ActionListener;
 public class backZero implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
+        go();
+    }
+
+    public void go(){
         MainFrame.textarea.setText("");
     }
 }

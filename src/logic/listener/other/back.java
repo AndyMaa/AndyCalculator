@@ -15,6 +15,10 @@ public class back implements ActionListener {
     JTextArea area = MainFrame.textarea;
     @Override
     public void actionPerformed(ActionEvent e){
+        go();
+    }
+
+    public void go(){
         String str = area.getText();
         String[] array = str.split("");
         int length = array.length;
