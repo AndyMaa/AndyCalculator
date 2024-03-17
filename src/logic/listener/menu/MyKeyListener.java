@@ -2,8 +2,6 @@ package logic.listener.menu;
 
 import GUI.MainFrame;
 import Other_functions.gather;
-import logic.listener.other.equal;
-
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.io.IOException;

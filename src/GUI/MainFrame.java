@@ -6,10 +6,6 @@ import logic.listener.menu.settingsListener;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.FocusAdapter;
-import java.awt.event.FocusEvent;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
 
 /**
  * @CreateTime: 2022/5/18 20:08
